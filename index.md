@@ -11,3 +11,10 @@ This is the main domain I use for personal projects.
 
 - [tripUniq](https://www.tripuniq.com/) - Tailored travel planning made by Local Heroes
 - [medistream.tv](https://medistream.tv/) - Online medical events
+- [GoTrendier](https://www.gotrendier.com/) - Fashion marketplace in Mexico and Colombia
+
+## Contact
+
+- [My almost never updated blog](https://www.eduardmartinez.es/)
+- [My almost never updated Twitter account](https://twitter.com/publicString)
+- [My almost never updated LinkedIn account](https://www.linkedin.com/in/eduardmartinez/)
