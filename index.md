@@ -11,6 +11,7 @@ This is the main domain I use for personal projects.
 
 - [tripUniq](https://www.tripuniq.com/) - Tailored travel planning made by Local Heroes
 - [medistream.tv](https://medistream.tv/) - Online medical events
+- [SEMFYC 2020](https://www.congresodelasemfyc.com/) - Virtual medical congress
 - [GoTrendier](https://www.gotrendier.com/) - Fashion marketplace in Mexico and Colombia
 
 ## Contact
