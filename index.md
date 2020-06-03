@@ -6,6 +6,8 @@ This is the main domain I use for personal projects.
 
 - [GasApp](https://gasapp.dropdatabase.es/) - PWA with updated prices of spain gas stations.
 - [trenvago](https://trenvago.dropdatabase.es/) - Spanish trains fare finder with data scrapped from the [main spainsh train operator](https://www.renfe.com)
+- [djWorkplace](https://github.com/callmewind/djworkplace) - Shared calendar for appointing holidays with your team ([live version for goTrendier](https://vacaciones.gotrendier.mx))
+- [billdev](https://github.com/callmewind/billdev) - Half-backed invoice management for freelances using django Admin
 
 ## Professional projects (still alive)
 
