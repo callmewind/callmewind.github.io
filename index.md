@@ -8,7 +8,7 @@ This is the main domain I use for personal projects.
 - [trenvago](https://trenvago.dropdatabase.es/) - Spanish trains fare finder with data scrapped from the [main spainsh train operator](https://www.renfe.com)
 - [djWorkplace](https://github.com/callmewind/djworkplace) - Shared calendar for appointing holidays with your team ([live version for goTrendier](https://vacaciones.gotrendier.mx))
 - [billdev](https://github.com/callmewind/billdev) - Half-backed invoice management for freelances using django Admin
-- [ci_bootstrap_form](https://github.com/callmewind/ci_bootstrap_form) - Bootstrap forms library for the ancient CodeIgniter framewor
+- [ci_bootstrap_form](https://github.com/callmewind/ci_bootstrap_form) - Bootstrap forms library for the ancient CodeIgniter framework
 
 ## Professional projects (still alive)
 
