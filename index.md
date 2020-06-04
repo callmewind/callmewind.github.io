@@ -10,13 +10,14 @@ This is the main domain I use for personal projects.
 - [billdev](https://github.com/callmewind/billdev) - Half-backed invoice management for freelances using django Admin
 - [ci_bootstrap_form](https://github.com/callmewind/ci_bootstrap_form) - Bootstrap forms library for the ancient CodeIgniter framework
 
-## Professional projects (still alive)
+## Professional projects
 
 - [tripUniq](https://www.tripuniq.com/) - Tailored travel planning made by Local Heroes
 - [medistream.tv](https://medistream.tv/) - Online medical events
 - [SEMFYC 2020](https://www.congresodelasemfyc.com/) - Virtual medical congress
 - [GoTrendier](http://www.gotrendier.com/) - Fashion marketplace in Mexico and Colombia
-- [SeedRocekt dealflow](https://dealflow.seedrocket.com/) - Project management for the [SeedRocket](https://www.seedrocket.com/) accelerator
+- [SeedRocket dealflow](https://dealflow.seedrocket.com/) - Project management for the [SeedRocket](https://www.seedrocket.com/) accelerator
+- Dead projects I worked in the past: offerum.com, bellahora.com, [keecua](http://keecua.com), Obelisk PBX
 
 ## Contact
 
