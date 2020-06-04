@@ -17,7 +17,7 @@ This is the main domain I use for personal projects.
 - [SEMFYC 2020](https://www.congresodelasemfyc.com/) - Virtual medical congress
 - [GoTrendier](http://www.gotrendier.com/) - Fashion marketplace in Mexico and Colombia
 - [SeedRocket dealflow](https://dealflow.seedrocket.com/) - Project management for the [SeedRocket](https://www.seedrocket.com/) accelerator
-- Dead projects I worked in the past: offerum.com, bellahora.com, [keecua](http://keecua.com), Obelisk PBX
+- Dead projects I worked in the past: offerum.com, bellahora.com, [keecua.com](http://keecua.com), Obelisk PBX
 
 ## Contact
 
