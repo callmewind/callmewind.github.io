@@ -19,8 +19,4 @@ This is the main domain I use for personal projects.
 - [SeedRocket dealflow](https://dealflow.seedrocket.com/) - Project management for the [SeedRocket](https://www.seedrocket.com/) accelerator
 - offerum.com (discounts), bellahora.com (management software for beauty centers and barber shops), keecua (ebay snipper), Obelisk PBX (Asterisk based PBX software for call centers)
 
-## Contact
-
-- [My almost never updated blog](https://www.eduardmartinez.es/)
-- [My almost unused updated Twitter account](https://twitter.com/publicString)
-- [My seldom updated LinkedIn account](https://www.linkedin.com/in/eduardmartinez/)
+[blog](https://www.eduardmartinez.es/) [twitter](https://twitter.com/publicString) [linkedin](https://www.linkedin.com/in/eduardmartinez/) [instagram](https://www.instagram.com/applediagonal/)
