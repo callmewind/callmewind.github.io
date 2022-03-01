@@ -6,17 +6,14 @@ This is the main domain I use for personal projects.
 
 - [GasApp](https://gasapp.dropdatabase.es/) - PWA with updated prices of spain gas stations.
 - [trenvago](https://trenvago.dropdatabase.es/) - Spanish trains fare finder with data scrapped from the [main spainsh train operator](https://www.renfe.com)
-- [djWorkplace](https://github.com/callmewind/djworkplace) - Shared calendar for appointing holidays with your team ([live version for goTrendier](https://vacaciones.gotrendier.mx))
-- [billdev](https://github.com/callmewind/billdev) - Half-backed invoice management for freelances using django Admin
 - [ci_bootstrap_form](https://github.com/callmewind/ci_bootstrap_form) - Bootstrap forms library for the ancient CodeIgniter framework
 
 ## Some work
 
 - [tripUniq](https://www.tripuniq.com/) - Tailored travel planning made by Local Heroes
 - [medistream.tv](https://medistream.tv/) - Online medical events
-- [SEMFYC 2020](https://www.congresodelasemfyc.com/) - Virtual medical congress
-- [GoTrendier](http://www.gotrendier.com/) - Fashion marketplace in Mexico and Colombia
+- [SEMFYC 2020](https://2020.congresodelasemfyc.com/) - Virtual medical congress
+- [GoTrendier MX](http://www.gotrendier.com.co/) / [GoTrendier CO](http://www.gotrendier.com.co/) - Fashion marketplace in Mexico and Colombia
 - [SeedRocket dealflow](https://dealflow.seedrocket.com/) - Project management for the [SeedRocket](https://www.seedrocket.com/) accelerator
-- offerum.com (discounts), bellahora.com (management software for beauty centers and barber shops), keecua (ebay snipper), Obelisk PBX (Asterisk based PBX software for call centers)
 
 \[ [blog](https://www.eduardmartinez.es/)\] \[ [twitter](https://twitter.com/publicString) \] \[ [linkedin](https://www.linkedin.com/in/eduardmartinez/) \] \[ [instagram](https://www.instagram.com/applediagonal/) \]
