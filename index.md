@@ -5,6 +5,7 @@ This is the main domain I use for personal projects.
 ## Side projects
 
 - [GasApp](https://gasapp.dropdatabase.es/) - PWA with updated prices of spain gas stations.
+- [informer](https://informer.dropdatabase.es/) - POC for a transactional communications management SaaS
 - [trenvago](https://trenvago.dropdatabase.es/) - Spanish trains fare finder with data scrapped from the main spainsh train operators
 - [ci_bootstrap_form](https://github.com/callmewind/ci_bootstrap_form) - Quick & dirty ootstrap forms library for the ancient CodeIgniter framework inspired by [django bootstrap](https://github.com/zostera/django-bootstrap3)
 
