@@ -16,6 +16,7 @@ This is the main domain I use for personal projects.
 - [SEMFYC 2020](https://2020.congresodelasemfyc.com/) - Virtual medical congress
 - [GoTrendier MX](http://www.gotrendier.com.co/) / [GoTrendier CO](http://www.gotrendier.com.co/) - Fashion marketplace in Mexico and Colombia
 - [SeedRocket dealflow](https://dealflow.seedrocket.com/) - Project management for the [SeedRocket](https://www.seedrocket.com/) accelerator
+- [onconexion 2023](https://www.onconexion.es/) - Another medical congress
 
 ## Misc
 - [My Pi Zero local server](https://pi.dropdatabase.es) 
